@@ -48,5 +48,6 @@ https://github.com/vschs007/flask-realtime-face-detection-opencv-python
 and the system recognise the face
 
 <br/>
+
 ![image](https://user-images.githubusercontent.com/23351217/126860058-52567d60-67cb-4b71-84a6-2c170e5ee6f0.png)
 
